@@ -1,0 +1,26 @@
+store_id,store_name,region
+STR-10,Store_Branch_0,APAC
+STR-11,Store_Branch_1,APAC
+STR-12,Store_Branch_2,APAC
+STR-13,Store_Branch_3,APAC
+STR-14,Store_Branch_4,EMEA
+STR-15,Store_Branch_5,APAC
+STR-16,Store_Branch_6,LATAM
+STR-17,Store_Branch_7,LATAM
+STR-18,Store_Branch_8,LATAM
+STR-19,Store_Branch_9,North America
+STR-20,Store_Branch_10,EMEA
+STR-21,Store_Branch_11,APAC
+STR-22,Store_Branch_12,North America
+STR-23,Store_Branch_13,APAC
+STR-24,Store_Branch_14,North America
+STR-25,Store_Branch_15,North America
+STR-26,Store_Branch_16,LATAM
+STR-27,Store_Branch_17,LATAM
+STR-28,Store_Branch_18,North America
+STR-29,Store_Branch_19,LATAM
+STR-30,Store_Branch_20,North America
+STR-31,Store_Branch_21,EMEA
+STR-32,Store_Branch_22,LATAM
+STR-33,Store_Branch_23,LATAM
+STR-34,Store_Branch_24,LATAM

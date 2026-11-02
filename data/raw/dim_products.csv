@@ -1,0 +1,151 @@
+product_id,product_name,category,unit_price
+PROD-500,Item_0,Apparel,110.78
+PROD-501,Item_1,Apparel,565.36
+PROD-502,Item_2,Office Supplies,583.74
+PROD-503,Item_3,Apparel,1010.68
+PROD-504,Item_4,Office Supplies,273.27
+PROD-505,Item_5,Apparel,463.38
+PROD-506,Item_6,Office Supplies,972.0
+PROD-507,Item_7,Apparel,990.11
+PROD-508,Item_8,Electronics,467.69
+PROD-509,Item_9,Furniture,556.36
+PROD-510,Item_10,Electronics,370.91
+PROD-511,Item_11,Furniture,1119.74
+PROD-512,Item_12,Furniture,151.19
+PROD-513,Item_13,Office Supplies,1121.16
+PROD-514,Item_14,Furniture,823.8
+PROD-515,Item_15,Electronics,642.57
+PROD-516,Item_16,Electronics,48.86
+PROD-517,Item_17,Apparel,575.96
+PROD-518,Item_18,Electronics,495.22
+PROD-519,Item_19,Apparel,201.85
+PROD-520,Item_20,Furniture,791.13
+PROD-521,Item_21,Electronics,1165.67
+PROD-522,Item_22,Furniture,679.0
+PROD-523,Item_23,Electronics,860.56
+PROD-524,Item_24,Electronics,91.46
+PROD-525,Item_25,Apparel,507.02
+PROD-526,Item_26,Furniture,148.47
+PROD-527,Item_27,Electronics,739.23
+PROD-528,Item_28,Office Supplies,1126.79
+PROD-529,Item_29,Furniture,797.52
+PROD-530,Item_30,Furniture,101.4
+PROD-531,Item_31,Furniture,432.05
+PROD-532,Item_32,Apparel,665.29
+PROD-533,Item_33,Office Supplies,489.82
+PROD-534,Item_34,Furniture,1002.04
+PROD-535,Item_35,Electronics,979.46
+PROD-536,Item_36,Electronics,738.08
+PROD-537,Item_37,Apparel,454.41
+PROD-538,Item_38,Electronics,313.85
+PROD-539,Item_39,Furniture,135.99
+PROD-540,Item_40,Electronics,432.33
+PROD-541,Item_41,Furniture,501.68
+PROD-542,Item_42,Electronics,814.23
+PROD-543,Item_43,Office Supplies,793.21
+PROD-544,Item_44,Apparel,93.43
+PROD-545,Item_45,Apparel,480.36
+PROD-546,Item_46,Office Supplies,226.32
+PROD-547,Item_47,Office Supplies,196.61
+PROD-548,Item_48,Apparel,994.49
+PROD-549,Item_49,Office Supplies,59.88
+PROD-550,Item_50,Furniture,508.83
+PROD-551,Item_51,Electronics,210.16
+PROD-552,Item_52,Apparel,1056.4
+PROD-553,Item_53,Office Supplies,672.88
+PROD-554,Item_54,Furniture,285.34
+PROD-555,Item_55,Apparel,607.89
+PROD-556,Item_56,Office Supplies,880.47
+PROD-557,Item_57,Apparel,1150.16
+PROD-558,Item_58,Office Supplies,272.33
+PROD-559,Item_59,Apparel,1064.56
+PROD-560,Item_60,Furniture,1121.82
+PROD-561,Item_61,Furniture,1100.54
+PROD-562,Item_62,Electronics,766.14
+PROD-563,Item_63,Apparel,759.49
+PROD-564,Item_64,Electronics,489.82
+PROD-565,Item_65,Apparel,905.35
+PROD-566,Item_66,Office Supplies,642.24
+PROD-567,Item_67,Office Supplies,816.15
+PROD-568,Item_68,Electronics,519.86
+PROD-569,Item_69,Apparel,880.48
+PROD-570,Item_70,Electronics,991.12
+PROD-571,Item_71,Furniture,184.26
+PROD-572,Item_72,Electronics,1001.19
+PROD-573,Item_73,Electronics,652.95
+PROD-574,Item_74,Office Supplies,1015.15
+PROD-575,Item_75,Electronics,523.25
+PROD-576,Item_76,Apparel,461.06
+PROD-577,Item_77,Office Supplies,1098.92
+PROD-578,Item_78,Electronics,308.89
+PROD-579,Item_79,Furniture,1014.61
+PROD-580,Item_80,Electronics,585.98
+PROD-581,Item_81,Electronics,621.77
+PROD-582,Item_82,Electronics,377.08
+PROD-583,Item_83,Office Supplies,691.92
+PROD-584,Item_84,Apparel,397.0
+PROD-585,Item_85,Furniture,56.73
+PROD-586,Item_86,Electronics,333.68
+PROD-587,Item_87,Apparel,17.59
+PROD-588,Item_88,Apparel,1174.24
+PROD-589,Item_89,Office Supplies,1159.24
+PROD-590,Item_90,Furniture,480.23
+PROD-591,Item_91,Office Supplies,876.76
+PROD-592,Item_92,Apparel,421.51
+PROD-593,Item_93,Apparel,808.6
+PROD-594,Item_94,Apparel,968.46
+PROD-595,Item_95,Office Supplies,1136.64
+PROD-596,Item_96,Furniture,486.25
+PROD-597,Item_97,Electronics,942.12
+PROD-598,Item_98,Office Supplies,326.45
+PROD-599,Item_99,Apparel,1188.5
+PROD-600,Item_100,Office Supplies,40.67
+PROD-601,Item_101,Apparel,728.2
+PROD-602,Item_102,Electronics,794.81
+PROD-603,Item_103,Electronics,828.77
+PROD-604,Item_104,Furniture,153.26
+PROD-605,Item_105,Apparel,1126.85
+PROD-606,Item_106,Furniture,225.61
+PROD-607,Item_107,Furniture,751.08
+PROD-608,Item_108,Electronics,274.98
+PROD-609,Item_109,Office Supplies,375.59
+PROD-610,Item_110,Office Supplies,660.29
+PROD-611,Item_111,Furniture,506.46
+PROD-612,Item_112,Electronics,200.67
+PROD-613,Item_113,Apparel,213.41
+PROD-614,Item_114,Office Supplies,507.59
+PROD-615,Item_115,Furniture,911.17
+PROD-616,Item_116,Office Supplies,1078.58
+PROD-617,Item_117,Office Supplies,110.11
+PROD-618,Item_118,Apparel,477.79
+PROD-619,Item_119,Electronics,129.29
+PROD-620,Item_120,Apparel,29.75
+PROD-621,Item_121,Electronics,797.45
+PROD-622,Item_122,Office Supplies,726.91
+PROD-623,Item_123,Furniture,203.99
+PROD-624,Item_124,Apparel,288.24
+PROD-625,Item_125,Electronics,38.21
+PROD-626,Item_126,Office Supplies,1003.59
+PROD-627,Item_127,Electronics,1169.88
+PROD-628,Item_128,Electronics,171.2
+PROD-629,Item_129,Electronics,285.46
+PROD-630,Item_130,Office Supplies,1043.41
+PROD-631,Item_131,Furniture,1112.49
+PROD-632,Item_132,Furniture,509.36
+PROD-633,Item_133,Furniture,70.24
+PROD-634,Item_134,Electronics,56.88
+PROD-635,Item_135,Office Supplies,693.0
+PROD-636,Item_136,Electronics,477.55
+PROD-637,Item_137,Furniture,44.1
+PROD-638,Item_138,Furniture,704.07
+PROD-639,Item_139,Office Supplies,23.45
+PROD-640,Item_140,Electronics,946.97
+PROD-641,Item_141,Apparel,374.66
+PROD-642,Item_142,Apparel,57.91
+PROD-643,Item_143,Furniture,710.14
+PROD-644,Item_144,Office Supplies,483.24
+PROD-645,Item_145,Electronics,1168.82
+PROD-646,Item_146,Electronics,657.6
+PROD-647,Item_147,Furniture,337.53
+PROD-648,Item_148,Furniture,854.23
+PROD-649,Item_149,Electronics,333.08
